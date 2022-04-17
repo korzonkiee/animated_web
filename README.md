@@ -1,6 +1,7 @@
 # animated_web
 
-A new Flutter project.
+https://user-images.githubusercontent.com/26259846/163724058-3ff0c16d-105d-49f5-abf1-c8e96fe33363.mp4
+
 
 ## Getting Started
 
